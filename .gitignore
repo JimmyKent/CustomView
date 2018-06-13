@@ -9,5 +9,4 @@ gradlew
 gradlew.bat
 local.properties
 
-#/build
 .externalNativeBuild
